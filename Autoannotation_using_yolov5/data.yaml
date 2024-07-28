@@ -1,0 +1,5 @@
+train: dataset/exp2/dataset/exp2/images/train/
+val: dataset/exp2/dataset/exp2/images/val/
+
+nc: 1
+names: [ "Student"]
